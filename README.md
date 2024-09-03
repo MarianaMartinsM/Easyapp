@@ -1,2 +1,2 @@
 # Easyapp
-Projeto TCC desnvolvido em equipe
+Projeto TCC desenvolvido em equipe
